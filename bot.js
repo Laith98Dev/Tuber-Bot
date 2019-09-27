@@ -818,4 +818,4 @@ if(message.content === '$listvoice') {
 
 /////
 
-client.login('NjI2NTExOTg4MTM0MTE3Mzgz.XYvNhA.og3O_m69yFL-92t1De5yI7Xp1cw');
+client.login('NjI2NTExOTg4MTM0MTE3Mzgz.XY5Ucg.Fg9hxO361Pix2W2duV0-RwgCaDA');
