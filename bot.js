@@ -644,9 +644,9 @@ client.on('message', msg => {
 
          .setDescription(`**Help|هيلب
 
-       -invites | لمعرفة عدد انفايتاتك
+       $invites | لمعرفة عدد انفايتاتك
 
-       -new | لإنشاء تكت
+       $new | لإنشاء تكت
 
        -giveaway  |  لإعداد قيفاواي
 
